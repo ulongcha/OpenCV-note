@@ -5,8 +5,8 @@
 
 using namespace std;
 using namespace cv;
-
-Mat src = imread("pic5.jpg");
+/*
+Mat src = imread("pic.bmp");
 Mat dst;
 
 int n_dil_ero = 3;
@@ -78,3 +78,4 @@ static void top_black(int, void*) {
 	}
 	imshow("top&black", dst);
 }
+*/

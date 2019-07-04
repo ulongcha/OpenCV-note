@@ -125,7 +125,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dilation-erosion.cpp" />
+    <ClCompile Include="edgedetect.cpp" />
+    <ClCompile Include="hough.cpp" />
     <ClCompile Include="morphology.cpp" />
+    <ClCompile Include="resize.cpp" />
     <ClCompile Include="roi-combine.cpp" />
     <ClCompile Include="liner-combine.cpp" />
     <ClCompile Include="roi-liner-combine.cpp" />

@@ -39,5 +39,14 @@
     <ClCompile Include="morphology.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="edgedetect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="resize.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hough.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
